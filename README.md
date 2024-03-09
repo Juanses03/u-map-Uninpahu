@@ -75,13 +75,6 @@ Esto iniciará la aplicación en el emulador o dispositivo conectado.
 
 - **Daniel Fernando** - Back
 
-## Imagenes
-
-![](/home/juanse/snap/marktext/9/.config/marktext/images/2024-03-08-19-32-26-image.png)
-
-![](/home/juanse/snap/marktext/9/.config/marktext/images/2024-03-08-19-33-12-image.png)
-
-![](/home/juanse/snap/marktext/9/.config/marktext/images/2024-03-08-19-33-26-image.png)
 
 ## Contacto
 
